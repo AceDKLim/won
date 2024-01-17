@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691288092276",
+    "project_id": "fir-won",
+    "storage_bucket": "fir-won.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691288092276:android:960844cb2515d2f89eeb21",
+        "android_client_info": {
+          "package_name": "com.example.won"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwLSEs_d9U2u9W8t3JyouTSZ0G03T3lzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
